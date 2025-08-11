@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Menu, X } from "lucide-react";
-import logo from "../assets/patliputra.png"; // assets folder ka path adjust karo
+import logo from "../assets/Patliputra.png"; // assets folder ka path adjust karo
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
